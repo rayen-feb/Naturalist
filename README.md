@@ -1,6 +1,3 @@
-Here’s the updated README file with CRUD functionality and additional features:
-
----
 
 # Naturalist - Online Animal Nutrition and Accessories Store
 
