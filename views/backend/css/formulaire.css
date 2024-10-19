@@ -1,0 +1,103 @@
+.titre1{
+    text-align: center;
+    color: #33b35a;
+}
+
+.form-size{
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.form-selectProd{
+    width: 220px;
+    height: 40px;
+    padding: 0.45rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    border-radius: 0;
+    display: block;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+
+}
+
+.btn-engrst{
+    margin-top: 8px;   
+}
+
+.btnSpecial{
+    font-weight: 400;
+    border: 1px solid transparent;
+    padding: 0.45rem 0.75rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    border-radius: 0;
+    color: white;
+}
+
+.btn-table > i{
+    background: none;
+    border: none;
+    color: #33b35a;
+}
+
+.green{
+    color: #33b35a;
+}
+
+.btn-table {
+    background: none;
+    border: none;
+    color: #33b35a;
+}
+
+.btn-table:hover{
+    background: none;
+    color: #33b35a;
+}
+
+.white{
+    color:white;
+}
+
+.alert-msg{ 
+    text-align: center;
+    height: 50px;
+}
+
+
+.center {
+    margin: auto;
+    padding: 10px;
+    
+  }
+
+  .btnPrint{
+    background-color: transparent;
+  }
+
+  
+  #button {
+      display: inline-block;
+      border: none;
+      padding: 1rem 2rem;
+      margin: 0;
+      text-decoration: none;
+      background: #0069ed;
+      color: #ffffff;
+      font-family: sans-serif;
+      font-size: 1rem;
+      cursor: pointer;
+      text-align: center;
+      transition: background 250ms ease-in-out, 
+                  transform 150ms ease;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+  }
+  
+  #button:hover,
+  #button:focus {
+      background: #0053ba;
+  }

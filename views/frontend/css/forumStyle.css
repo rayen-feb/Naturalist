@@ -1,0 +1,32 @@
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 120px;
+}
+
+.container1 ul{
+    width: 80%;
+}
+
+.container1 ul li{
+    /* margin: 10px; */
+    border:none;
+    border-bottom: 3px solid #56a700;
+    background-color:#e9ecef;
+  }
+
+
+  .contact-page-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .container1 ul img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
